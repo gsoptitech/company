@@ -2,6 +2,5 @@ streamlit
 requests
 plotly.express
 datetime
-time
 option_menu
 Image
